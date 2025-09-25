@@ -17,6 +17,35 @@ html {
   line-height: 1.4;
 }
 
+body {
+  /* background-color: cornflowerblue; */
+  /* background-color: rgb(61, 72, 177); */
+  background-color: #f0e68c;
+  margin: 20px; /* Added margin for better presentation */
+}
+
+h1 {
+  color: darkorange;
+  text-align: center;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  font-size: 100px;
+  font-weight: 900;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 100%;
+  font-weight: bold;
+}
+
+#description_div {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  font-weight: normal;
+  font-style: italic; 
+}
+
 /*
  * Remove text-shadow in selection highlight:
  * https://twitter.com/miketaylr/status/12228805301
